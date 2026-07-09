@@ -1,0 +1,7 @@
+{
+    "disableAutoUpdate": false,
+    "name": "OSTOAerogasm",
+    "author": "NMods",
+    "description": "Changes aero randomly, making Tera wonderful",
+    "servers": ["https://raw.githubusercontent.com/nmods/aerogasm/master/"]
+}
