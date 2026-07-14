@@ -1,6 +1,6 @@
-# Aerogasm
+# OSTO Aerogasm
 Aero changing module for Tera toolbox.  
-Randomly changing skybox/lighting/effects, giving TERA a more dynamic feel.
+Randomly changing skybox/lighting/effects, giving TERA a more dynamic feel. Modified for OSTO.
 
 Video:  
 [![Aerogasm video](https://img.youtube.com/vi/nl5hLvhxXf8/0.jpg)](https://www.youtube.com/watch?v=nl5hLvhxXf8)
