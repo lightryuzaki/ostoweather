@@ -3,7 +3,7 @@
 	"changeEveryTp": false,
 	"cycleTime": 1800000,
 	"timeType": "server",
-	"blendTime": 50,
+	"blendTime": 30,
 	"mode": "preset",
 	"activePreset": "dynamicday",
 	"printName": false,

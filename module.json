@@ -1,7 +1,7 @@
 {
     "disableAutoUpdate": false,
     "name": "OSTOAerogasm",
-    "author": "NMods",
-    "description": "Changes aero randomly, making Tera wonderful",
-    "servers": ["https://raw.githubusercontent.com/nmods/aerogasm/master/"]
+    "author": "NMods & Laxus",
+    "description": "Modified Aerogasm for Old School Tera Online.",
+    "servers": [" https://github.com/lightryuzaki/ostoweather"]
 }
